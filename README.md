@@ -142,10 +142,3 @@ Citation information will be updated after publication.
 This dataset is released for academic research purposes only. Commercial use is not permitted without permission from the authors.
 
 Users are allowed to download, use, and cite this dataset for non-commercial academic research. Redistribution or modification for commercial purposes is not permitted without prior permission from the authors.
-
-## Contact
-
-For questions about the dataset, please contact:
-
-**Wentao Hu**  
-Email: hwt592891262@gmail.com
