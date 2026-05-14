@@ -93,10 +93,7 @@ The current release status of the Tunnel dataset is summarized as follows:
 |---|---|
 | Raw Blender scene data | Released |
 | Blender `.blend` scene file | Released |
-| Rendered RGB image sequences | To be released progressively |
-| Rendered depth image sequences | To be released progressively |
-| Camera poses and sampling trajectories | To be released progressively |
-| Normal maps and auxiliary data | To be released progressively |
-| Rendering scripts and rendering method | To be released progressively |
+| Rendered RGB, depth, and normal sequences | To be released progressively |
+| Camera intrinsic parameters and rendering methods | To be released progressively |
 
 This release allows users to inspect the original tunnel scene and generate customized rendered data according to their own reconstruction or simulation requirements.
