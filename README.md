@@ -75,6 +75,28 @@ DK_data/
 │   │   ├── intrinsic_depth.txt
 │   │   └── extrinsic_depth.txt
 │   └── points3D_rgbd_init.ply
-│
-├── room1.zip
-└── room2.zip
+
+
+## Tunnel Dataset
+
+In addition to the DK dataset, this release also includes the original Tunnel dataset.
+
+The released Tunnel dataset contains the **raw Blender scene data** used as the original source of our tunnel reconstruction experiments. The Blender scene provides a synthetic tunnel environment with low illumination, repetitive textures, and complex tunnel-like geometric structures, which is designed to simulate challenging engineering conditions commonly encountered in underground or confined environments.
+
+In the current release, the Tunnel dataset is provided in its original Blender format. This raw Blender data serves as the source scene for subsequent image rendering, depth generation, trajectory sampling, and reconstruction experiments.
+
+Please note that the currently released Tunnel data are **not yet the sampled RGB-D image sequences** used directly for training or evaluation. The rendered RGB images, depth maps, camera poses, sampling trajectories, normal maps, and rendering scripts/methods will be released progressively in future updates.
+
+The current release status of the Tunnel dataset is summarized as follows:
+
+| Data Type | Release Status |
+|---|---|
+| Raw Blender scene data | Released |
+| Blender `.blend` scene file | Released |
+| Rendered RGB image sequences | To be released progressively |
+| Rendered depth image sequences | To be released progressively |
+| Camera poses and sampling trajectories | To be released progressively |
+| Normal maps and auxiliary data | To be released progressively |
+| Rendering scripts and rendering method | To be released progressively |
+
+This release allows users to inspect the original tunnel scene and generate customized rendered data according to their own reconstruction or simulation requirements.
