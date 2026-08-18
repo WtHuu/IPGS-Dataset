@@ -128,7 +128,7 @@ If you use this dataset in your research, please cite our paper:
 ```bibtex
 @article{hu2026ipgs,
   title={IPGS: Inertial-Prior-Guided Surface Gaussian Splatting for Geometry-Consistent Reconstruction of Complex Engineering Environments},
-  author={Hu, Wentao and Tian, Chenyu and Wen, Long and Ding, Huafeng},
+  author={Hu, Wentao and Tian, Chenyu and Wen, Long, Ding, Huafeng and Andrés Kecskeméthy},
   journal={Advanced Engineering Informatics},
   year={2026},
   note={Under review}
